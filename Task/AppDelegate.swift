@@ -3,7 +3,11 @@
 //  Task
 //
 //  
+<<<<<<< HEAD
 //  Copyright © 2018 Sudheer Potta. All rights reserved.
+=======
+//  
+>>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 //
 
 import UIKit
