@@ -7,20 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-<<<<<<< HEAD
-=======
-		2880500D216E6D6700A77B73 /* english.json in Resources */ = {isa = PBXBuildFile; fileRef = 2880500C216E6D0D00A77B73 /* english.json */; };
->>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 		E0024ED72165EF0200D6754F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0024ED62165EF0200D6754F /* AppDelegate.swift */; };
 		E0024ED92165EF0200D6754F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0024ED82165EF0200D6754F /* ViewController.swift */; };
 		E0024EDC2165EF0200D6754F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0024EDA2165EF0200D6754F /* Main.storyboard */; };
 		E0024EDE2165EF0200D6754F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0024EDD2165EF0200D6754F /* Assets.xcassets */; };
 		E0024EE12165EF0200D6754F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0024EDF2165EF0200D6754F /* LaunchScreen.storyboard */; };
 		E0024EEC2165EF0200D6754F /* TaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0024EEB2165EF0200D6754F /* TaskTests.swift */; };
-<<<<<<< HEAD
 		E0024EF72165EF1F00D6754F /* english.json in Resources */ = {isa = PBXBuildFile; fileRef = E0024EF62165EF1F00D6754F /* english.json */; };
-=======
->>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,10 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-<<<<<<< HEAD
-=======
 		2880500C216E6D0D00A77B73 /* english.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = english.json; sourceTree = "<group>"; };
->>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 		E0024ED32165EF0200D6754F /* Task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Task.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0024ED62165EF0200D6754F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0024ED82165EF0200D6754F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,10 +38,6 @@
 		E0024EE72165EF0200D6754F /* TaskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0024EEB2165EF0200D6754F /* TaskTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTests.swift; sourceTree = "<group>"; };
 		E0024EED2165EF0200D6754F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-<<<<<<< HEAD
-		E0024EF62165EF1F00D6754F /* english.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = english.json; sourceTree = "<group>"; };
-=======
->>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,11 +79,7 @@
 		E0024ED52165EF0200D6754F /* Task */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
-				E0024EF62165EF1F00D6754F /* english.json */,
-=======
 				2880500C216E6D0D00A77B73 /* english.json */,
->>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 				E0024ED62165EF0200D6754F /* AppDelegate.swift */,
 				E0024ED82165EF0200D6754F /* ViewController.swift */,
 				E0024EDA2165EF0200D6754F /* Main.storyboard */,
@@ -202,11 +184,7 @@
 			files = (
 				E0024EE12165EF0200D6754F /* LaunchScreen.storyboard in Resources */,
 				E0024EDE2165EF0200D6754F /* Assets.xcassets in Resources */,
-<<<<<<< HEAD
-				E0024EF72165EF1F00D6754F /* english.json in Resources */,
-=======
 				2880500D216E6D6700A77B73 /* english.json in Resources */,
->>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 				E0024EDC2165EF0200D6754F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -381,10 +359,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Task/Info.plist;
-<<<<<<< HEAD
-=======
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
->>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = MyAsk.Task;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -399,10 +374,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Task/Info.plist;
-<<<<<<< HEAD
-=======
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
->>>>>>> a467379de36b7f93b6bd4a7d5e357c6716aa1269
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = MyAsk.Task;
 				PRODUCT_NAME = "$(TARGET_NAME)";
