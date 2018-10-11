@@ -1,5 +1,5 @@
 # CodingExercise
-Palindrome problem
+Longest Common Prefix problem
 
 
 Assume valid words are available in a dictionary. Valid words are at least two characters long.
